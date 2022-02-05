@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaeny02
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, CSS, BOOTSTRAP ...
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking for collaborations with people to help me develop
 - 📫 How to reach me @kaeny.w
 
 <!---
